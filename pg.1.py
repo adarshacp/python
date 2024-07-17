@@ -30,4 +30,5 @@ marks=80
 if marks>50:
     has_passed=True
 print(has_passed)
+print("hello qoeld")
 
